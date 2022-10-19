@@ -6,9 +6,9 @@ import (
 	"strconv"
 	"strings"
 
+	"github.com/NicklasWallgren/go-snaps/snaps/internal/colors"
+	"github.com/NicklasWallgren/go-snaps/snaps/internal/difflib"
 	"github.com/gkampitakis/go-diff/diffmatchpatch"
-	"github.com/gkampitakis/go-snaps/snaps/internal/colors"
-	"github.com/gkampitakis/go-snaps/snaps/internal/difflib"
 )
 
 const (

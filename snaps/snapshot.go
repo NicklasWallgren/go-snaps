@@ -8,7 +8,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/gkampitakis/go-snaps/snaps/internal/colors"
+	"github.com/NicklasWallgren/go-snaps/snaps/internal/colors"
 )
 
 var (

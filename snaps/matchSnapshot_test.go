@@ -6,9 +6,9 @@ import (
 	"path/filepath"
 	"testing"
 
+	"github.com/NicklasWallgren/go-snaps/snaps/internal/colors"
+	"github.com/NicklasWallgren/go-snaps/snaps/internal/test"
 	"github.com/gkampitakis/ciinfo"
-	"github.com/gkampitakis/go-snaps/snaps/internal/colors"
-	"github.com/gkampitakis/go-snaps/snaps/internal/test"
 )
 
 const mockSnap = `

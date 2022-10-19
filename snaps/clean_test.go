@@ -7,7 +7,7 @@ import (
 	"sort"
 	"testing"
 
-	"github.com/gkampitakis/go-snaps/snaps/internal/test"
+	"github.com/NicklasWallgren/go-snaps/snaps/internal/test"
 )
 
 const mockSnap1 = `

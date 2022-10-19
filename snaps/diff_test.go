@@ -4,8 +4,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/gkampitakis/go-snaps/snaps/internal/colors"
-	"github.com/gkampitakis/go-snaps/snaps/internal/test"
+	"github.com/NicklasWallgren/go-snaps/snaps/internal/colors"
+	"github.com/NicklasWallgren/go-snaps/snaps/internal/test"
 )
 
 var a = `Proin justo libero, pellentesque sit amet scelerisque ut, sollicitudin non tortor. 

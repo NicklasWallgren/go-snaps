@@ -2,9 +2,9 @@ package snaps
 
 import (
 	"errors"
-	"github.com/gkampitakis/go-snaps/snaps/internal/formatter"
+	"github.com/NicklasWallgren/go-snaps/snaps/internal/formatter"
 
-	"github.com/gkampitakis/go-snaps/snaps/internal/colors"
+	"github.com/NicklasWallgren/go-snaps/snaps/internal/colors"
 )
 
 // MatchSnapshot verifies the values match the most recent snap file

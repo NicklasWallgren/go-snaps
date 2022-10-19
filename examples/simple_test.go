@@ -5,7 +5,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/gkampitakis/go-snaps/snaps"
+	"github.com/NicklasWallgren/go-snaps/snaps"
 )
 
 func TestMain(t *testing.M) {

@@ -39,7 +39,7 @@
 To install `go-snaps`, use `go get`:
 
 ```bash
-go get github.com/gkampitakis/go-snaps
+go get github.com/NicklasWallgren/go-snaps
 ```
 
 Import the `go-snaps/snaps` package into your code:
@@ -50,7 +50,7 @@ package example
 import (
   "testing"
 
-  "github.com/gkampitakis/go-snaps/snaps"
+  "github.com/NicklasWallgren/go-snaps/snaps"
 )
 
 func TestExample(t *testing.T) {
